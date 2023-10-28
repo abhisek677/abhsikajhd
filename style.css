@@ -1,0 +1,45 @@
+h1{
+	color:green;
+} 
+body{
+	background-color: rgb(81, 223, 123);
+	
+}                                                                                                                     
+button{
+	background-color: aqua;
+	translate: 1000%;
+}
+button:hover {
+		background-color: yellow;
+	  
+}
+p{
+	font-size: 10px;
+	color: blueviolet;
+
+}
+pound{
+	color: red;
+}
+euro{
+	color: green;
+}
+lt{
+	color: aqua;
+}
+amp{
+	color: blueviolet;
+}
+.pd{
+	color: aqua;
+	
+}
+.eur{
+	color: bisque;
+}
+.lt{
+color: blue;
+}
+.amp{
+	color: cadetblue;
+}
